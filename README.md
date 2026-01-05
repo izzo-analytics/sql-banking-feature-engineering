@@ -36,7 +36,7 @@ La tabella finale `analisi` aggrega tutti gli indicatori per ogni `id_cliente`, 
 
 ### Anteprima dei dati generati:
 <p align="center">
-  <img src="img/Output_sql.png" width="100%" alt="Output Tabella Analisi">
+  <img src="img/Output_sql.png" width="100%" alt="Output sql">
 </p>
 
 ---
